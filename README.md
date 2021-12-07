@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @kodh49, and I'm from 
+- 👋 Hi, I’m @kodh49, and I'm from Seoul, South Korea.
+- I'm studying Computer Science and Mathematics at the Schreyer Honors College at the Pennsylvania State University.
 - 👀 I’m interested in machine learning and computational science.
 - 🌱 I’m currently learning Rust, C++, and React.js
 - 💞️ I’m looking to collaborate on systems programming project.
