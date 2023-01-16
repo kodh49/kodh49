@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Rust, Julia, and JavaScript.
 - 💞️ I’m looking to collaborate on ML/Computational Mathematics project.
 - 📫 Reach me through my email > dzk5572@gmail.com
-- I'm used to code on Windows Subsystem for Linux with Visual studio code, but also familiar with Vim and Emacs.
+- 💻 I'm used to code on Windows Subsystem for Linux with Visual studio code, but also familiar with Vim and Emacs.
 
 <!---
 kodh49/kodh49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
